@@ -1,0 +1,7 @@
+#database  =PostgreSQL
+##PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.
+
+#fastify
+##O que é o Fastify?
+Fastify é um framework web focado em prover a melhor experiência de desenvolvimento com a mínima "dor de cabeça" e com uma poderosa arquitetura de plugins. 
+
